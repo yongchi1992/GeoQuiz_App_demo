@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_723e051ff428ba903150d1399e0da65ba1343e7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_c9fae43cda2e1c04b2ab0de43a8f148b5b1a92fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="15548cc6dad30c0d6bd709536a77a2935079ab4b">
+        <dex dex="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\instant-run_3c66495947985a72761d9c0487ffbfbb23e83c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_ceba869d57f6856b52678bd50e8a9140b43583f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="263586e7305facd96920153c7e4ce8b27f4cce3f">
+        <dex dex="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_95eb2f3d3e52db752eb7b9c3664bec6110babf88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_cbbc289a9014455f494727b5b4c0d0d94507f09b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_ac201e390423bbac0c92f5d08f9607e8cd29a709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_35bc18e50292fc40b6159ddba418271f81044ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_caeb7b31e30407364d17d20fd2208ddd46078607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_ef47e410bb3426845fa431dac3ef4d2f1d631966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Administrator\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_6b2af9c22e1034d73d6d3d6298dff3f161c14a1f.jar" />
+    </item>
+
+</items>
